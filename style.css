@@ -1,0 +1,126 @@
+.hh{
+    margin-left: 55px;
+    margin-top: 104px;
+    font-size: 30px;
+    font-weight: 700px;
+    line-height: 36px;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    width:1440px;
+    align-items:flex-start;
+    flex-flow:row wrap ;
+    flex-flow: wrap;
+    align-items: baseline;
+}
+.box1{
+     background-color:#f07878 ;
+    border-radius: 5px;
+    width: 684px;
+    height: 210px;
+    margin-top: 54px;
+    margin-left: 23px;
+}
+.box2{
+    width: 354px;
+    height: 210px;
+    margin-top: 54px;
+    background-color:#D39346; 
+    border-radius: 5px;
+    margin-left: 28px;
+}
+.box3{
+    width: 299px;
+    height: 210px;
+    margin-top: 54px;
+    background-color:#467FD3;
+    border-radius: 5px;
+    margin-left: 29px;
+}
+.box4{
+    box-sizing: border-box;
+    width: 684px;
+    height: 210px;
+    border:2px  solid #f07878; 
+    border-radius: 5px;
+    margin-top: 26px;
+    margin-left: 23px;
+}
+.box5{
+    box-sizing: border-box;
+    width: 354px;
+    height: 210px;
+    border:2px  solid #D39346;
+    border-radius: 5px;
+   margin-left: 28px;
+}
+.box6{
+    box-sizing: border-box;
+    width: 299px;
+    height: 210px;
+    border:2px solid #467FD3;
+    border-radius: 5px;
+    margin-left: 29px;
+}
+.container1{
+    display: flex;
+    width:1440px;
+    height: 100;
+    border:5px;
+    flex-direction: row;
+    justify-content: center;
+    flex-flow:row wrap ;
+    align-content: baseline;
+}
+.box7{
+    width: 375px;
+    height: 118px;
+    background-color: #f07878;
+    border-radius: 5px;
+    left: 338px;
+    top: 680px;
+    margin-top: 40px;
+}
+.box8{
+    width: 194px;
+    height: 118px;
+    background-color:#D39346 ;
+    border-radius: 5px;
+    margin-left: 15px;
+    margin-top: 40px;
+}
+.box9{
+    width: 164px;
+    height: 118px;
+    background-color:#467FD3;
+    border-radius: 5px;
+    margin-left: 15px;
+    margin-top: 40px;
+}
+.container2{
+    display: flex;
+    width:1440px;
+    border:5px;
+    margin-left: 23px;
+    flex-direction: row;
+    justify-content: flex-start;
+    flex-flow:row wrap ;    
+    align-content: baseline;
+}
+.container3{
+    display: flex;
+    width:1440px;
+    border:5px;
+    flex-direction: row;
+    align-content: baseline;
+    justify-content: flex-end;
+    flex-flow:row wrap;
+    margin-right: 10px;
+}
+   
+
+
+
+
+
